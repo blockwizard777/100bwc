@@ -1,0 +1,40 @@
+{
+  "name": "1000bwc",
+  "version": "1.0.0",
+  "description": "Web-based multiplayer card game with Konva and Socket.IO.",
+  "main": "/server/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node server/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/jest": "^29.5.14",
+    "@types/lodash.debounce": "^4.0.9",
+    "@types/node": "^22.10.1",
+    "concurrently": "^9.1.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1",
+    "pm2": "^5.4.3",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@types/multer": "^1.4.12",
+    "axios": "^1.7.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "image-size": "^1.1.1",
+    "lodash.debounce": "^4.0.8",
+    "multer": "^1.4.5-lts.1",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "uuid": "^11.0.3"
+  }
+}

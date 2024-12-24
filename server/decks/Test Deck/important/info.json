@@ -1,0 +1,10 @@
+{
+  "deckName": "Test Deck",
+  "description": "a test deck, for testing decks",
+  "editPassword": "test",
+  "isPublic": true,
+  "usagePassword": null,
+  "thumbnail": "hevy.PNG",
+  "starred": true,
+  "cardCount": 7
+}

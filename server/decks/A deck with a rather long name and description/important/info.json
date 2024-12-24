@@ -1,0 +1,10 @@
+{
+  "deckName": "A deck with a rather long name and description",
+  "description": "this is a long description, this is a long description, this is a long description, this is a long description, this is a long description, this is a long description, this is a long description, ",
+  "editPassword": "test",
+  "isPublic": true,
+  "usagePassword": null,
+  "thumbnail": "Cowboy 4.jpg",
+  "starred": false,
+  "cardCount": 6
+}

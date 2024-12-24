@@ -1,0 +1,10 @@
+{
+  "deckName": "a private deck",
+  "description": "no looky looky",
+  "editPassword": "private",
+  "isPublic": false,
+  "usagePassword": "private",
+  "thumbnail": "ninja.png",
+  "starred": false,
+  "cardCount": 2
+}
